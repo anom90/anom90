@@ -1,16 +1,13 @@
-## Hi there 👋
+### Dr. Kartianom, M.Pd.
 
-<!--
-**anom90/anom90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dosen PGMI, Fakultas Tarbiyah IAIN Bone. Doktor Penelitian dan Evaluasi Pendidikan (UNY). Bidang: pengukuran dan evaluasi pendidikan, terutama *Cognitive Diagnostic Models*, IRT/Rasch, SEM, dan pemodelan multilevel untuk pendidikan matematika di madrasah.
 
-Here are some ideas to get you started:
+**Buku dan data terbuka**
+- [buku-bifactor-mirt](https://github.com/anom90/buku-bifactor-mirt): naskah buku *Bifactor-MIRT dalam Pendidikan*
+- [dataset_sem_edisi2](https://github.com/anom90/dataset_sem_edisi2): data latihan buku SEM dengan R
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Aplikasi dan alat**
+- [CDM-GenAI](https://github.com/anom90/CDM-GenAI)
+- [bbka-analytics](https://github.com/anom90/bbka-analytics)
+
+Sebagian besar repositori riset bersifat privat karena memuat data penelitian dan naskah yang sedang ditinjau jurnal.
